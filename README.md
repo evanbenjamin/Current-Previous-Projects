@@ -1,1 +1,1 @@
-The projects featured here are assignments from my algorithms class.  The assignments are in each folder and the solutions I came up with are in the folders as well.  There is also a machine learning project listed as well that categorizes 10 different animals.  
+The projects featured here are assignments from my algorithms class.  The assignments are listed under the assignments pdf and the folders are the solutions I came up with using java.  There is also a machine learning project listed as well that categorizes 10 different animals.  
